@@ -1,2 +1,5 @@
 __pycache__/
 *.py[cod]
+
+# Don't upload db passwords to git
+local_settings.py
